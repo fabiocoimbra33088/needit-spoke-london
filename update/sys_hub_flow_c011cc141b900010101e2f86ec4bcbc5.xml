@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"51f025e0-b3b3-4bb4-baac-e6a847dd4cd9.calculate_date","label":"2➛Calculate date","reference_display":"Calculate date","type":"glide_date","base_type":"glide_date"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-30 15:57:17</sys_created_on>
+        <sys_id>c011cc141b900010101e2f86ec4bcbc5</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_392630_needit_sp">d97f37441b900010101e2f86ec4bcbf4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">d97f37441b900010101e2f86ec4bcbf4</sys_scope>
+        <sys_update_name>sys_hub_flow_c011cc141b900010101e2f86ec4bcbc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-30 17:20:11</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=c011cc141b900010101e2f86ec4bcbc5"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c011cc141b900010101e2f86ec4bcbc5"/>
+</record_update>
